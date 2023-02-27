@@ -1,0 +1,64 @@
+
+.logo{    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+      }
+
+.contenitore{
+    background-color: rgba(0,0,0,0.5);
+    margin: auto;
+    width: 60%;
+    height: 10%;
+    padding: 8%;
+    border-radius: 5%;     
+}
+
+.text-logo{
+    color: lime;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+body{
+     background-image: url(background.jpg);
+     background-size: cover;
+}
+.barra-navigazione{
+    background-color: lime;
+    text-align: center;
+    padding: 10px;
+}
+font{
+    color: white
+}
+main{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.carica1{
+    background-color: orange;
+    padding: 10px;
+    width: 40%;
+    border-radius: 5%;
+}
+.carica2{
+    background-color: green;
+    padding: 10px;
+    width: 60%;
+    border-radius: 10%;
+    
+}
+.carica3{
+    background-color: red;
+    padding: 10px;
+    width: 20%;
+    border-radius: 5%;
+}
+.grassetto{
+    font-size: 25px;
+}
+section{
+    margin: 20px;  
+}
